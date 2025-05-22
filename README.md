@@ -1,35 +1,40 @@
-# 👋 Hey there! I’m Yaswanth
+# 👋 Hey there! I'm Yaswanth
 
-Welcome to my GitHub profile! I’m passionate about web development and enjoy collaborating on open-source projects.
+Welcome to my GitHub profile! I'm a passionate **web developer** with a keen interest in building user-friendly, impactful web applications. I enjoy contributing to the open-source community and constantly exploring new technologies.
 
 ---
 
-## 🤝 Collaboration Opportunities 
-I’m actively looking to contribute to open-source projects in web development. If you’re working on something exciting and need a hand, feel free to reach out! Let’s create something impactful together.
+## 🤝 Collaboration Opportunities
+
+I'm actively looking to contribute to exciting open-source projects in the web development space.  
+If you're working on something interesting and could use an extra hand, feel free to connect — let's build something amazing together!
 
 ---
 
 ## 📚 Skills & Tools
-Here’s a quick overview of the tech stack I work with:
-- **Languages**:  HTML, CSS, JavaScript, Java, Python
-- **Frameworks & Libraries**: React, Node.js
-- **Tools & Platforms**: Git, GitHub, VS Code
+
+Here's a quick overview of the technologies I work with:
+
+- **Languages:** HTML, CSS, JavaScript, Java, Python  
+- **Frameworks & Libraries:** React, Node.js  
+- **Tools & Platforms:** Git, GitHub, Visual Studio Code
 
 ---
 
-## 💬 Let's Connect!
-I’m always open to connecting with fellow developers, discussing new ideas, or just chatting about tech. Feel free to reach out if you’d like to collaborate or have any inquiries.
+## 💬 Let's Connect
 
-📧 **Email**: yaswanthmerugumala@gmail.com  
-🌐 **LinkedIn**: [linkedin.com/in/yaswanthmerugumala](https://www.linkedin.com/in/yaswanthmerugumala/)  
+I’m always open to networking with fellow developers, exchanging ideas, or exploring potential collaborations.
+
+- 📧 **Email:** yaswanthmerugumala@gmail.com  
+- 🌐 **LinkedIn:** [linkedin.com/in/yaswanthmerugumala](https://www.linkedin.com/in/yaswanthmerugumala/)
 
 ---
 
-## 😄 Pronouns 
+## 😄 Pronouns
+
 He/Him
 
 ---
-
 
 <!---
 yaswanthmerugumala/yaswanthmerugumala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
