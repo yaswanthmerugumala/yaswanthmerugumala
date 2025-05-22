@@ -1,42 +1,47 @@
-# 👋 Hey there! I'm Yaswanth
+# 👋 Hi, I’m Yaswanth Merugumala
 
-Welcome to my GitHub profile! I'm a passionate **web developer** with a keen interest in building user-friendly, impactful web applications. I enjoy contributing to the open-source community and constantly exploring new technologies.
-
----
-
-## 🤝 Collaboration Opportunities
-
-I'm actively looking to contribute to exciting open-source projects in the web development space.  
-If you're working on something interesting and could use an extra hand, feel free to connect — let's build something amazing together!
+Welcome to my GitHub profile! I’m a passionate web developer with a strong focus on building scalable and efficient web applications. I enjoy collaborating on open-source projects and continuously learning new technologies.
 
 ---
 
-## 📚 Skills & Tools
+## 🚀 About Me
 
-Here's a quick overview of the technologies I work with:
-
-- **Languages:** HTML, CSS, JavaScript, Java, Python  
-- **Frameworks & Libraries:** React, Node.js  
-- **Tools & Platforms:** Git, GitHub, Visual Studio Code
-
----
-
-## 💬 Let's Connect
-
-I’m always open to networking with fellow developers, exchanging ideas, or exploring potential collaborations.
-
-- 📧 **Email:** yaswanthmerugumala@gmail.com  
-- 🌐 **LinkedIn:** [linkedin.com/in/yaswanthmerugumala](https://www.linkedin.com/in/yaswanthmerugumala/)
+- Experienced in **Full Stack Web Development**  
+- Skilled in **JavaScript**, **React**, **Node.js**, **Python**, and **Java**  
+- Proficient with frontend technologies including **HTML5**, **CSS3**, and modern JavaScript frameworks  
+- Comfortable working with databases, REST APIs, and cloud services  
+- Enthusiastic about contributing to open-source projects and developer communities  
 
 ---
 
-## 😄 Pronouns
+## 🛠️ Tech Stack
 
-He/Him
+| Languages      | Frameworks & Libraries | Tools & Platforms      |
+| -------------- | --------------------- | --------------------- |
+| HTML, CSS, JS  | React, Node.js        | Git, GitHub, VS Code  |
+| Java, Python   | Express.js            | MongoDB, MySQL        |
 
 ---
 
-<!---
-yaswanthmerugumala/yaswanthmerugumala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🤝 Collaboration
+
+I’m always looking for opportunities to contribute to innovative open-source projects and collaborate with other developers. If you have an exciting project or idea, let’s connect and build something impactful together!
+
+---
+
+## 📫 Get In Touch
+
+- 📧 Email: yaswanthmerugumala@gmail.com  
+- 🌐 LinkedIn: [linkedin.com/in/yaswanthmerugumala](https://www.linkedin.com/in/yaswanthmerugumala)  
+
+---
+
+## ⚡ Fun Fact
+
+I’m constantly exploring new technologies and enjoy working on projects that challenge me to learn and grow.
+
+---
+
+<!--
+**yaswanthmerugumala/yaswanthmerugumala** is a special repository that shows this README on your GitHub profile.
+-->
